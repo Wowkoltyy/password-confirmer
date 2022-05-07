@@ -1,0 +1,1 @@
+document.querySelector("[autocomplete='new-password']").oninput = null
